@@ -15,12 +15,7 @@ The file OpeningScreen.c is the opening screen that you view when you execute th
 On Linux-
 give execute permissions to the script named 'exec' ,
 - sudo chmod ugo+x exec
-exec contains the following shell commands
-	gcc  $@ -lglut -lGL -lGLU -lX11 -lm > /dev/null
-	./a.out 
+
 compile and run using,
 - ./exec OpeningScreen.c
 
-	gcc  $@ -lglut -lGL -lGLU -lX11 -lm > /dev/null
-	./a.out 
-    
