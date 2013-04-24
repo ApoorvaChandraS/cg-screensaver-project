@@ -1,0 +1,2 @@
+gcc  $@ -lglut -lGL -lGLU -lX11 -lm > /dev/null
+./a.out 
