@@ -1,12 +1,7 @@
 CG Project - IT255
 (Concept Screensaver using Basic Algorithms)
 ==============
-Authors:
-Apoorva Chandra S
-Dilip Mallya
-R Kaushik
-Kartik Sreenivasan
-S Avinash
+Authors: Apoorva Chandra S, Dilip Mallya, R Kaushik, Kartik Sreenivasan, S Avinash
 --------------
 
 **Info:**
